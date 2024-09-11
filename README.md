@@ -28,15 +28,11 @@ Para executar o projeto localmente, você precisará de:
     ```bash
     git clone https://github.com/usuario/meteora-landing-page.git
     ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd meteora-landing-page
-    ```
-3. Abra o arquivo `index.html` diretamente em seu navegador.
+
+2. Abra o arquivo `index.html` diretamente em seu navegador.
 
 ## Estrutura do Projeto
 ```bash
-meteora-landing-page/
 ├── css/
 │   └── style.css           # Arquivo de estilos personalizados
 ├── js/
