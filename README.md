@@ -1,6 +1,7 @@
 # Meteora - Landing Page
 
 ## Descrição
+
 O **Meteora** é uma landing page moderna e responsiva, desenvolvida como parte do curso na plataforma Alura. O projeto tem como objetivo aplicar os conceitos de HTML, CSS, JavaScript e Bootstrap para criar uma interface de usuário limpa, atrativa e funcional, seguindo as melhores práticas de design para web.
 
 Este projeto foi concluído e tem como foco a promoção de produtos com uma abordagem minimalista e eficiente, proporcionando uma excelente experiência de navegação aos usuários.
