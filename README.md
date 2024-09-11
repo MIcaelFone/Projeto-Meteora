@@ -2,21 +2,19 @@
 
 ## Descrição
 
-O **Meteora** é uma landing page moderna e responsiva, desenvolvida como parte do curso na plataforma Alura. O projeto tem como objetivo aplicar os conceitos de HTML, CSS, JavaScript e Bootstrap para criar uma interface de usuário limpa, atrativa e funcional, seguindo as melhores práticas de design para web.
+O **Meteora** é uma landing page moderna e responsiva, desenvolvida como parte do curso na plataforma Alura. O projeto tem como objetivo aplicar os conceitos de HTML, CSS, Bootstrap para criar uma interface de usuário limpa, atrativa e funcional, seguindo as melhores práticas de design para web.
 
 Este projeto foi concluído e tem como foco a promoção de produtos com uma abordagem minimalista e eficiente, proporcionando uma excelente experiência de navegação aos usuários.
 
 ## Funcionalidades
 - Design responsivo, adaptável para dispositivos móveis, tablets e desktops.
 - Uso de grid e componentes prontos do **Bootstrap** para layout responsivo e estilização rápida.
-- Efeitos visuais e interações dinâmicas utilizando **JavaScript**.
 - Animações suaves para melhorar a experiência do usuário.
 - Código limpo e organizado, facilitando a manutenção e expansão do projeto.
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura da página e marcação semântica.
 - **CSS3**: Estilização personalizada, flexbox, media queries.
-- **JavaScript**: Scripts para interação e dinâmica do usuário.
 - **Bootstrap**: Framework CSS para layout responsivo e componentes prontos.
 
 ## Pré-requisitos
